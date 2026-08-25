@@ -17,10 +17,3 @@ Early diagnosis of breast cancer drastically improves survival rates. This proje
 - **Primary Metric Focus:** Recall / Sensitivity (Malignant Class)
 - **Scaling:** `StandardScaler` applied to all continuous continuous features.
 
-## 🚀 How to Run
-Clone the repository and run the main Jupyter Notebook:
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
-jupyter notebook
